@@ -1,5 +1,7 @@
 import cv2
 import dlib
+import cv2
+
 
 # Load pre-trained face detection model
 detector = dlib.get_frontal_face_detector()
